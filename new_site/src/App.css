@@ -1,0 +1,36 @@
+
+
+.n{background-color: #212529 !important;
+    background:  url('./components/media/ASSA.png')!important;
+
+}.v{
+
+    width: 350px!important
+}
+.btn{
+    width: 100%;
+}.if{
+    width: 350px;
+}.vd{width: 500px;}
+.bosh{background: url('./components/media/ASSA.png');
+}.ul {display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin: 10px;
+    padding: 20px;
+  }.mb{padding: 20px;}
+  .bgs{
+      background: url('./components/media/rt.jpg');
+      background-repeat: no-repeat;
+  }.l{width: 200px;}
+  .clock{height:100vh !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}.soat{box-shadow: 12px 12px 21px -2px #212529!important;}
+.a{height:100vh !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 110px !important;
+    }
